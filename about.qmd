@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+The primary objective behind the creation of this repository is to publish a Quarto book designed for the Digital Accounting course assignment at Tilburg University.
+
+| Mihai Bacos-Cosma SNR 2033207
+| Deborah van de Fliert SNR 2058123
